@@ -192,9 +192,14 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
 
 ### 📊 GitHub Activity & Statistics
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-1%2C127%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-19%20Projects-00C853?style=for-the-badge&logo=git&logoColor=white" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-45%20Days-FF6B6B?style=for-the-badge&logo=fire&logoColor=white" alt="Longest Streak" />
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samersaeedofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Samer's GitHub Stats" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samersaeedofficial&theme=tokyonight&hide_border=true&ring=6366f1&fire=f43f5e&currStreakLabel=6366f1&background=0d1117" alt="Samer's GitHub Streak" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=samersaeedofficial&theme=tokyonight&hide_border=true&ring=6366f1&fire=f43f5e&currStreakLabel=6366f1&background=0d1117" alt="Samer's Contributions & Streak" />
 </div>
 
 <br/>
