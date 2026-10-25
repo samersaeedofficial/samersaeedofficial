@@ -242,24 +242,3 @@ Whether you're looking to collaborate on an innovative project, discuss a potent
 
 </div>
 
-<div align="center">
-
-Whether you're looking to collaborate on an innovative project, discuss a potential role, or just talk tech:
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-samersaeedofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samersaeedofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-samersaeedofficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samersaeedofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samersaeedofficial)
-
-<br/>
-
-<i>"Code is not just logic — it is creativity, structure, and real-world impact."</i>
-
-<br/><br/>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,37,124,58,237,59,130,246&height=100&section=footer" width="100%" alt="Footer Wave" />
-
-</div>
-
