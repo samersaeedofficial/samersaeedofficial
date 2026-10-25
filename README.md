@@ -43,6 +43,7 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
 ```
 
 - 🔭 **Currently Building**: Large-scale enterprise systems, real-time dashboards, and automated AI video/content pipelines.
+- 💼 **Enterprise ERP & Payroll**: Architecting institutional accounting systems with automated staff payroll calculations, tax deductions, and bank salary advice exports.
 - 📱 **Mobile & Desktop**: Architecting production-ready cross-platform applications using **Flutter**, **Dart**, and **Kotlin**.
 - 🌐 **Web & Cloud**: Engineering full-stack web platforms using **React**, **Next.js**, **Node.js**, **Python**, and **Supabase (PostgreSQL / RBAC)**.
 - 🛡️ **Cybersecurity**: Researching network vulnerabilities, penetration testing frameworks, and custom rogue AP monitoring suites.
@@ -106,6 +107,19 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
       <span><i>Enterprise School Management Ecosystem</i></span>
     </td>
     <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/samersaeedofficial/AccountantDesktopApp">APS&C Accounts OS & Salary / Payroll ERP</a></h3>
+      <p>Desktop institutional accounting & payroll suite featuring automated staff salary calculations, statutory FBR tax withholding, EOBI & PF deductions, loan recovery ledger, and Askari Bank corporate bulk salary advice generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter_Desktop-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Salary_&_Payroll-00C853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Double--Entry_GL-4169E1?style=flat-square" />
+      </p>
+      <a href="https://github.com/samersaeedofficial/AccountantDesktopApp"><b>Explore Accountant & Salary OS →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/samersaeedofficial/AutoYoutubeShorts">AutoYouTubeShorts — AI Video Pipeline</a></h3>
       <p>Automated content production pipeline that scripts, renders, and publishes short-form video content at scale using modern TypeScript and Python.</p>
       <p>
@@ -116,8 +130,6 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
       </p>
       <a href="https://github.com/samersaeedofficial/AutoYoutubeShorts"><b>Explore AutoYouTubeShorts →</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/samersaeedofficial/smart_car_app_flutter_app">Smart Car Controller & IoT App</a></h3>
       <p>Embedded robotics and smart car control solution coupled with an intuitive, real-time Flutter mobile dashboard via wireless telemetry.</p>
@@ -129,6 +141,8 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
       </p>
       <a href="https://github.com/samersaeedofficial/smart_car_app_flutter_app"><b>Explore Smart Car App →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/samersaeedofficial/BitsTradingBot">Bits Trading Bot</a></h3>
       <p>Algorithmic trading bot built in Dart designed for precision rule execution, automated order balancing, and financial market insights.</p>
@@ -139,8 +153,6 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
       </p>
       <a href="https://github.com/samersaeedofficial/BitsTradingBot"><b>Explore BitsTradingBot →</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/samersaeedofficial/UniversitiesScholarships">Universities & Scholarships</a></h3>
       <p>Cross-platform mobile application providing comprehensive scholarship search, eligibility filters, and higher education institution indexes.</p>
@@ -151,6 +163,8 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
       </p>
       <a href="https://github.com/samersaeedofficial/UniversitiesScholarships"><b>Explore Scholarships App →</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/samersaeedofficial/deepseekclone">DeepSeek AI Interface Clone</a></h3>
       <p>High-fidelity, responsive frontend reproduction of the modern DeepSeek LLM conversational interface with dynamic chat states.</p>
@@ -160,6 +174,16 @@ philosophy: "Clean architecture, resilient security, and intuitive design."
         <img src="https://img.shields.io/badge/Responsive_Design-6366F1?style=flat-square" />
       </p>
       <a href="https://github.com/samersaeedofficial/deepseekclone"><b>Explore DeepSeek Clone →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/samersaeedofficial/SalesApp">SalesApp — Multi-Platform Operations</a></h3>
+      <p>Comprehensive commercial transaction and sales tracking client engineered for seamless cross-platform operational management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Commercial_POS-FF6B6B?style=flat-square" />
+      </p>
+      <a href="https://github.com/samersaeedofficial/SalesApp"><b>Explore SalesApp →</b></a>
     </td>
   </tr>
 </table>
@@ -212,3 +236,25 @@ Whether you're looking to collaborate on an innovative project, discuss a potent
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,37,124,58,237,59,130,246&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+
+<div align="center">
+
+Whether you're looking to collaborate on an innovative project, discuss a potential role, or just talk tech:
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-samersaeedofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samersaeedofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-samersaeedofficial-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samersaeedofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samersaeedofficial)
+
+<br/>
+
+<i>"Code is not just logic — it is creativity, structure, and real-world impact."</i>
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,37,124,58,237,59,130,246&height=100&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
+
